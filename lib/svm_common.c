@@ -950,14 +950,14 @@ long get_runtime(void)
 }
 
 
-# ifdef _MSC_VER
+// # ifdef _MSC_VER
 
-int isnan(double a)
-{
-  return(_isnan(a));
-}
+// int isnan(double a)
+// {
+//   return(_isnan(a));
+// }
 
-# endif 
+// # endif 
 
 int space_or_null(int c) {
   if (c==0)

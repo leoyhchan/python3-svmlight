@@ -1,0 +1,17 @@
+MANIFEST.in
+README.md
+setup.py
+lib/kernel.h
+lib/svm_classify.c
+lib/svm_common.c
+lib/svm_common.h
+lib/svm_hideo.c
+lib/svm_learn.c
+lib/svm_learn.h
+lib/svm_learn_main.c
+lib/svm_loqo.c
+svmlight/svmlight.c
+svmlight.egg-info/PKG-INFO
+svmlight.egg-info/SOURCES.txt
+svmlight.egg-info/dependency_links.txt
+svmlight.egg-info/top_level.txt
